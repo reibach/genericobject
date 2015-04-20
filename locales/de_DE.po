@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-06 14:50+0200\n"
-"PO-Revision-Date: 2015-04-17 16:23+0100\n"
+"PO-Revision-Date: 2015-04-20 15:08+0100\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,20 +19,20 @@ msgstr ""
 
 #: hook.php:152
 msgid "Error: directories '/inc', '/front' and '/locales' of plugin must be writable by the web server."
-msgstr "Error: directories '/inc', '/front' and '/locales' of plugin must be writable by the web server."
+msgstr "Fehler: Verzeichnisse '/inc', '/front' and '/locales' im Pluginordner müssen beschreibbar durch den Webserver sein."
 
-#: index.php:46 index.php:49 setup.php:118 front/type.form.php:73 inc/object_item.class.php:110
-#: inc/type.class.php:239
+#: index.php:46 index.php:49 setup.php:118 front/type.form.php:73
+#: inc/object_item.class.php:110 inc/type.class.php:239
 msgid "Objects management"
-msgstr "Objects management"
+msgstr "Objektverwaltung"
 
 #: setup.php:82 setup.php:83
 msgid "Go to objects list"
-msgstr "Go to objects list"
+msgstr "Zur Objekteliste"
 
 #: front/field.form.php:40
 msgid "Field(s) deleted successfully"
-msgstr "Field(s) deleted successfully"
+msgstr "Feld(er) erfolgreich gelöscht"
 
 #: front/field.form.php:50
 msgid "Field added successfully"
